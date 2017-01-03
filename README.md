@@ -1,4 +1,4 @@
-# Auth0 - Logs to Loggly
+# Auth0 Public Profile
 
 This extension will covert a public profile. Then 
 
