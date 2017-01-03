@@ -29,7 +29,7 @@ Please setup the extension by visiting https://manage.auth0.com/#/extensions and
 ```bash
 $ npm run build
 $ wt create \
-    --name auth0-public-profile \
+    --name profile \
     --secret AUTH0_DOMAIN="YOUR_AUTH0_DOMAIN" \
     --secret AUTH0_CLIENT_ID="YOUR_AUTH0_CLIENT_ID" \
     --secret AUTH0_CLIENT_SECRET="YOUR_AUTH0_CLIENT_SECRET" \
