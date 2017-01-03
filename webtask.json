@@ -1,0 +1,11 @@
+{
+  "title": "Auth0 Public Profile",
+  "name": "auth0-public-profile",
+  "version": "0.0.1",
+  "author": "auth0",
+  "description": "This extension will allow you to host public profile",
+  "keywords": [
+    "auth0",
+    "extension"
+  ]
+}
