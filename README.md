@@ -4,7 +4,7 @@ This extension will covert a public profile. Then
 
 `https://your_domain.auth0.com/profile/user_id` will respond the users public json profile 
 and 
-`https://your_domain.auth0.com/profifle/user_id/image` will redirect to the users profile image 
+`https://your_domain.auth0.com/profile/user_id/image` will redirect to the users profile image 
 
 
 This extension is just a proof of concept, you should modify the `filter` function as per your requirements
