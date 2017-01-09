@@ -126,9 +126,6 @@ app.use(function (req, res, next) {
   });
 });
 
-app.use(function () {
-
-});
 
 app.get('/:userId/image', renderPublicImage);
 app.get('/:userId', renderPublicProfile);
